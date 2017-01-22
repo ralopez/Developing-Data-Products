@@ -4,4 +4,4 @@
 - Then, the app finds their intersection point.  
 - If the two lines are the same, the app yields the message "Both Lines are the same". 
 - If the two lines are different but parallel, the app yields the message "Both lines are parallel".
-- The app also draws the two lines in the selected xy intervals
+- The app also draws the two lines in the xy space for the selected intervals.
